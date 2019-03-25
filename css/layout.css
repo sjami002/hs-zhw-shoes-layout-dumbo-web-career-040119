@@ -29,7 +29,9 @@
 }
 
 .featured-brand {
-
+  float: left;
+  width: 66%;
+  margin: 0 5px 10px 0;
 }
 
 .archive {
